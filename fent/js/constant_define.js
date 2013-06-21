@@ -1,0 +1,1 @@
+window.FADING_DURATION = 500;

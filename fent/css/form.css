@@ -1,0 +1,30 @@
+div.errorSummary
+{
+    background: #df8989; 
+    border: 1px solid #ca3838; 
+    border-radius: 8px;    
+    padding: 3px;
+    color: #7b2121;
+    margin-top: -30px;
+    margin-bottom: 20px;
+    font-family: 'Open Sans';
+}
+
+div.errorSummary p
+{
+    margin: 0;
+    padding: 5px;
+}
+
+div.errorSummary ul 
+{
+    margin: 0;
+    padding: 0 0 0 20px;    
+}
+
+.input.error
+{ 
+    border-color: #ca3838; 
+    color: #ca3838; 
+    background: #f0c5c5;     
+}
